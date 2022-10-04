@@ -83,7 +83,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>20.0</version>
+            <version>29.0</version>
         </dependency>
 
         <dependency>
@@ -100,7 +100,7 @@
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
             <artifactId>elasticsearch-rest-client</artifactId>
-            <version> 6.8.15</version>
+            <version> 6.8.17</version>
         </dependency>
 
         <!--image resizing-->
